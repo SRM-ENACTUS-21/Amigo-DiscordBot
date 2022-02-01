@@ -158,4 +158,4 @@ async def on_message(message):
         pass
 
 
-client.run('OTE0MTgxMjYwMTAzMDEyMzYy.YaJTpQ.jC_QeOlcBLSMMNUi2trLpjRV2Rc')
+client.run(token)
