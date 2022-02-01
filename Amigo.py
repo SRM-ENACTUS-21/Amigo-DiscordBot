@@ -1,9 +1,9 @@
 import discord
 from discord import client
 from discord.ext import commands
-from webserver import keep_alive
 
-import os
+
+
 
 
 intents = discord.Intents.default()
@@ -156,8 +156,6 @@ async def on_message(message):
 
     else:
         pass
-keep_alive()
 
-TOKEN = os.environ.get("DISCORD_BOT_SECRET2")
 
-client.run(TOKEN)
+client.run('OTE0MTgxMjYwMTAzMDEyMzYy.YaJTpQ.jC_QeOlcBLSMMNUi2trLpjRV2Rc')
