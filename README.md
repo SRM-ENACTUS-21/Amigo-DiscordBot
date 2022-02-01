@@ -1,2 +1,2 @@
 # Amigo-DiscordBot
-Discord bot for Merakhi
+Discord bot for Meraki
